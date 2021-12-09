@@ -6,6 +6,7 @@ public class DemoOnGit {
 	@Test
 	public void gitDemo() {
 		System.out.println("My 1st commit and push");
+		System.out.println("Sree");
 	}
 
 }
